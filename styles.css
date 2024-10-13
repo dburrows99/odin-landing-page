@@ -1,0 +1,48 @@
+* {
+  /*outline: 2px solid red; */
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.first-section {
+  background-color: #1F2937;
+
+
+}
+
+.header-link{
+  font-size: 18px;
+  color: #E5E7EB;
+  margin: 10px;
+
+
+}
+
+#header-logo{
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-left,.navbar-right{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
