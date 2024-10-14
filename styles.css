@@ -5,8 +5,6 @@
   font-family: "Roboto", sans-serif;
 }
 
-
-
 .first-section {
   background-color: #1F2937;
 }
@@ -58,12 +56,10 @@ ul {
 }
 
 .herobar {
-
   display: flex;
   flex-direction: row;
   margin-top: 100px;
   padding-bottom: 100px;
-
 }
 
 #herobar-title {
@@ -75,24 +71,16 @@ ul {
 #herobar-text {
   font-size: 18px;
   color: #E5E7EB;
-
 }
 
 .herobar-left {
-
-
   display: flex;
   flex-direction: column;
   width: 50%;
   justify-content: left;
   align-items: start;
   margin-right: 15px;
-
-
-
 }
-
-
 
 .herobar-right {
   display: flex;
@@ -112,7 +100,6 @@ ul {
   padding: 5px 20px;
   text-align: center;
   text-decoration: none;
-
   font-size: 14px;
 }
 
@@ -133,15 +120,10 @@ img {
 }
 
 .imagesbar {
-
   display: flex;
   flex-direction: row;
-
   justify-content: space-around;
   align-items: center;
-
-
-
 }
 
 .imagebar-section {
@@ -150,7 +132,6 @@ img {
   align-items: center;
   justify-content: center;
   width: 50%;
-
 }
 
 .imagebar-image {
@@ -168,7 +149,6 @@ img {
   height: 150px;
   width: 150px;
   text-align: center;
-
 }
 
 .thirdsection {
@@ -198,32 +178,28 @@ img {
   color: #1F2937;
 }
 
-.signup-box{
+.signup-box {
   display: flex;
   background-color: #3282F6;
   border-radius: 10px;
   height: 100px;
   align-items: center;
-  justify-content:space-around;
+  justify-content: space-around;
   color: #F9F1F8;
   margin: 50px;
   padding: 10px;
 }
 
-.calltoaction{
+.calltoaction {
   font-size: 20px;
   font-weight: 800;
 }
 
-
-
-.button2{
-  
-  
+.button2 {
   height: 28px;
   text-align: center;
   justify-content: center;
-  background-color:#3282F6;
+  background-color: #3282F6;
   color: #E5E7EB;
   border-radius: 5px;
   border: 2px solid #E8E8E8;
@@ -231,4 +207,3 @@ img {
   margin-top: 10px;
   padding: 5px 20px;
 }
-
